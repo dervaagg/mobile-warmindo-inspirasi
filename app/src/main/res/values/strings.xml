@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Warmindo Inspirasi</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="password">Password</string>
+    <string name="hi">Hi,</string>
+    <string name="tambah_pesanan">Tambah Pesanan</string>
+    <string name="tambah_pesanann">+ Tambah Pesanan</string>
+    <string name="baru">Baru</string>
+    <string name="disajikan">Disajikan</string>
+    <string name="diproses">Diproses</string>
+    <string name="selesai">Selesai</string>
+    <string name="detail"><![CDATA[Detail >]]></string>
+    <string name="update">Update</string>
+    <string name="metode_pembayaran">Metode Pembayaran</string>
+    <string name="jumlah_pesanan">Jumlah Pesanan</string>
+    <string name="subtotal_pesanan">Subtotal Pesanan</string>
+    <string name="total">Total</string>
+    <string name="selesaikan_pesanan">Selesaikan Pesanan</string>
+    <string name="batalkan">Batalkan</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="buat"><![CDATA[Buat >]]></string>
+    <string name="tunggu_sebentar">Tunggu sebentar...</string>
+    <string name="aktif">Aktif</string>
+    <string name="username">Username</string>
+    <string name="your_username">Your Username</string>
+    <string name="masuk">Masuk</string>
+    <string name="pilih_shift">Pilih Shift</string>
+</resources>
